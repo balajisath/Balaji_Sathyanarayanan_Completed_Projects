@@ -1,4 +1,4 @@
-## Balaji_Sathyanarayanan_Completed_Projects
+# Balaji_Sathyanarayanan_Completed_Projects
 
 1.	Road Roughness Mapping System
 2.	Public Network Credentials Protection System
